@@ -1,2 +1,4 @@
 Greetings Team,
 Welcome to GIT session.
+
+Thank you!
