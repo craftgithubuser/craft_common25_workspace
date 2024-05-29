@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Change 2
+=======
+Change 2
+>>>>>>> 16a2f431126e6356ba79edee5dd5b0ae7f6394e7
