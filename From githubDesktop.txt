@@ -1,0 +1,7 @@
+1, Modifiying - adding/updating files/codes/documents
+
+2, adding the change to staging area/ tracking the change
+
+3, commeting the change to local repository/ permanently save the change/ track the change.
+
+4, notify your change to remote repository by using: git push 
