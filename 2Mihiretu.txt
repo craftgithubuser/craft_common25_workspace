@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Change 1
-=======
-Change 1
->>>>>>> 16a2f431126e6356ba79edee5dd5b0ae7f6394e7
+2
