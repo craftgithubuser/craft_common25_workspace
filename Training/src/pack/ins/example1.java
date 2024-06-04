@@ -6,7 +6,7 @@ public class example1 {
 		// TODO Auto-generated method stub
      System.out.print("hello craft");
      System.out.print("I wanna connect eclipse to git");
-     System.out.print("hello craft");
+    
 	}
 
 }
